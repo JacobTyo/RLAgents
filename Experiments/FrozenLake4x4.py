@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 
 
-num_episodes = 100000
+num_episodes = 10000
 iterations = 1000
 
 env = gym.make('FrozenLake-v0')
